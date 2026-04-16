@@ -10,3 +10,14 @@ Ejemplos:
 - Marketing: Empaquetado de estrategias para campañas.
 - Programación: Uso de directrices de buenas prácticas para generar código de mayor calidad.
 - Administración: Creación de documentos o facturas.
+
+## Listado de skills
+| Skill | Descripción |
+| --- | --- |
+| [Typescript](./skills/typescript/SKILL.md) | TypeScript strict patterns and best practices. |
+| [Angular architecture](./skills/angular/architecture/SKILL.md) | Angular Architecture patterns and best practices. |
+| [Angular core](./skills/angular/core/SKILL.md) | Angular Core patterns and best practices. |
+| [Angular forms](./skills/angular/forms/SKILL.md) | Angular forms patterns and best practices. |
+| [Angular performance](./skills/angular/performance/SKILL.md) | Angular performance patterns and best practices. |
+| [Jest](./skills/jest/SKILL.md) | Jest patterns and best practices. |
+| [Playwright](./skills/playwright/SKILL.md) | Playwright patterns and best practices. |
