@@ -12,6 +12,17 @@ Ejemplos:
 - Administración: Creación de documentos o facturas.
 
 ## Listado de skills
+
+### TEST
+| Skill | Descripción |
+| --- | --- |
+| [Jest](./skills/jest/SKILL.md) | Jest patterns and best practices. |
+| [Playwright](./skills/playgright/SKILL.md) | Playwright patterns and best practices. |
+| [TDD](./skills/tdd/SKILL.md) | Test-Driven Development patterns and best practices. |
+| [Elixir Testing](./skills/elixir-testing/SKILL.md) | Elixir testing patterns and best practices. |
+| [TDD Antipatterns](./skills/tdd-antipatterns/SKILL.md) | Common TDD antipatterns to avoid. |
+
+### ANGULAR
 | Skill | Descripción |
 | --- | --- |
 | [Typescript](./skills/typescript/SKILL.md) | TypeScript strict patterns and best practices. |
@@ -19,5 +30,31 @@ Ejemplos:
 | [Angular core](./skills/angular/core/SKILL.md) | Angular Core patterns and best practices. |
 | [Angular forms](./skills/angular/forms/SKILL.md) | Angular forms patterns and best practices. |
 | [Angular performance](./skills/angular/performance/SKILL.md) | Angular performance patterns and best practices. |
-| [Jest](./skills/jest/SKILL.md) | Jest patterns and best practices. |
-| [Playwright](./skills/playwright/SKILL.md) | Playwright patterns and best practices. |
+
+### ELIXIR
+| Skill | Descripción |
+| --- | --- |
+| [Ash](./skills/ash/SKILL.md) | Ash Framework patterns and best practices. |
+| [Ash Form](./skills/ash-form/SKILL.md) | Ash Form patterns and best practices. |
+| [Ash JSON API](./skills/ash-json-api/SKILL.md) | Ash JSON API patterns and best practices. |
+| [Elixir Antipatterns](./skills/elixir-antipatterns/SKILL.md) | Common Elixir antipatterns to avoid. |
+| [Phoenix LiveView](./skills/phoenix-liveview/SKILL.md) | Phoenix LiveView patterns and best practices. |
+
+### FLUTTER
+| Skill | Descripción |
+| --- | --- |
+| [Auto Size Text](./skills/auto_size_text/SKILL.md) | AutoSizeText widget patterns and best practices. |
+| [Flutter Riverpod](./skills/flutter_riverpod/SKILL.md) | Riverpod state management patterns and best practices. |
+| [Flutter Secure Storage](./skills/flutter_secure_storage/SKILL.md) | Secure storage patterns and best practices. |
+| [Form Builder](./skills/form_builder/SKILL.md) | Flutter Form Builder patterns and best practices. |
+| [Realm](./skills/realm/SKILL.md) | Realm database patterns and best practices. |
+
+### UX/UI
+| Skill | Descripción |
+| --- | --- |
+| [Tailwind](./skills/tailwind/SKILL.md) | Tailwind CSS patterns and best practices. |
+
+### EXTRA
+| Skill | Descripción |
+| --- | --- |
+| [Write Good Code](./skills/write-good-code/SKILL.md) | General principles for writing clean and maintainable code. |
