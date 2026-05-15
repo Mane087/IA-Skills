@@ -108,9 +108,6 @@ const CHART_COLORS = {
 // ✅ style prop for truly dynamic values
 <div style={{ width: `${percentage}%` }} />
 <div style={{ opacity: isVisible ? 1 : 0 }} />
-
-// ✅ CSS custom properties for theming
-<div style={{ "--progress": `${value}%` } as React.CSSProperties} />
 ```
 
 ## Common Patterns
